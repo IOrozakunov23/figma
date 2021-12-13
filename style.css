@@ -1,0 +1,18 @@
+body {
+  margin: 0 auto;
+}
+* {
+  box-sizing: border-box;
+}
+.logo {
+  padding-left: 7%;
+  position: absolute;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+}
+.ul_li{
+  display: flex;
+  display: inline-block;
+}
