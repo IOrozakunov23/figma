@@ -5,10 +5,17 @@ body {
   box-sizing: border-box;
 }
 .logo{
-  
+  padding-top: 30px;
+  padding-left: 90px;
 }
 .ul-li{
   display: flex;
   flex-grow: 1px;
   justify-content: space-between;
-} 
+  margin: 10px;
+}
+.nav{
+  display: flex;
+  margin: 0 auto;
+  
+}
