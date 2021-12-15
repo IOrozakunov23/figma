@@ -4,18 +4,26 @@ body {
 * {
   box-sizing: border-box;
 }
-.logo{
+
+
+.header {
+  display: flex;
   padding-top: 30px;
-  padding-left: 90px;
 }
-.ul-li{
+.logo {
+  padding-left: 100px;
+  padding-top: 20px;
+}
+nav ul {
   display: flex;
-  flex-grow: 1px;
-  justify-content: space-between;
+  padding-left: 40px;
+}
+nav ul li {
+  list-style-type: none;
+}
+nav ul li a {
+  text-decoration: none;
   margin: 10px;
-}
-.nav{
-  display: flex;
-  margin: 0 auto;
-  
+  padding-left: 80px;
+  flex-grow: 1j;
 }
