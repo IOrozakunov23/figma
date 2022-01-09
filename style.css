@@ -128,6 +128,7 @@ padding-right: 20px;
 .image{ 
 width:232px; 
 height: 32px; 
+background-color: #4058FF;
 } 
 .img2 img{ 
  padding-top: 50px; 
@@ -259,11 +260,12 @@ margin: 0 auto;
 } 
 .main5 p{ 
  padding-left: 435px; 
-color: rgb(77, 73, 73); 
+ color: rgb(77, 73, 73); 
 } 
 .main6-6{ 
   padding-top: 20px; 
   padding-left: 100px; 
+  border-radius: 5%;
 } 
 .main6{ 
   padding-top: 30px; 
