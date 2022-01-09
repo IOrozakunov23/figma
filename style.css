@@ -161,7 +161,7 @@ nav ul li a {
 }
 .main3-3 {
   background-color: rgba(241, 245, 255, 0.5);
-  width: 1280px;
+  width: 1300px;
   height: 650px;
   margin: 50px;
   justify-content: center;
@@ -199,7 +199,7 @@ nav ul li a {
   border-radius: 16px;
   width: 628px;
   height: 585px;
-  margin: 20px;
+  margin: 25px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -214,7 +214,7 @@ nav ul li a {
   flex-wrap: wrap;
   justify-content: center;
   padding-top: 55px;
-  margin: 20px;
+  margin: 25px;
 }
 .col-8 {
   font-size: 18px;
@@ -267,7 +267,7 @@ nav ul li a {
 }
 .main6 {
   padding-top: 30px;
-  width: 1280px;
+  width: 1300px;
   height: 600px;
   background-color: #121722;
   display: flex;
@@ -309,7 +309,7 @@ nav ul li a {
   flex-wrap: wrap;
   justify-content: center;
   padding-top: 55px;
-  margin: 20px;
+  margin: 25px;
 }
 .main7-5 {
   background-color: rgba(241, 245, 255, 0.5);
@@ -336,7 +336,7 @@ nav ul li a {
 }
 .main8-1 {
   padding-top: 30px;
-  width: 1220px;
+  width: 1300px;
   height: 600px;
   background-color: #f1f5ff;
   margin: 0 auto;
@@ -482,7 +482,7 @@ nav ul li a {
 }
 .main11 {
   padding-top: 30px;
-  width: 1280px;
+  width: 1300px;
   height: 346px;
   border: 1px solid #4058ff;
   background-color: #4058ff;
